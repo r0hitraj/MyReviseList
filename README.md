@@ -7,6 +7,9 @@ This is my interview prepration list to tackle Tech Interviews
 ### Top 100-150 SQL Questions Useful for DE-DS-SDE Interviews 
 ### Top 50-100 Pyspark Questions
 ### Top 50 DE Questions which is given in the machine coding , mostly file processing/log processings
+### Operating System top 100 Questions
+### Computer Networks Top 100 Questions
+### DataBase Top Questions
 
 
 
